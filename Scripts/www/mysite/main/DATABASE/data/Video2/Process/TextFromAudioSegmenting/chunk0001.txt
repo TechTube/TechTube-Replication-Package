@@ -1,0 +1,1 @@
+then consider hitting that subscribe button till its first start off by looking at some null pointer exception Java let's make our own Java file and go from there so go to file new Java project null pointer exception is what we'll call our project finish on the source folder right click and go to new class

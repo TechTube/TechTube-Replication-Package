@@ -1,0 +1,1 @@
+the Java programming language on which Crossing is built on top of what we're going to see is the number when you pass a primitive value a number integer float Etc into a function in the computer

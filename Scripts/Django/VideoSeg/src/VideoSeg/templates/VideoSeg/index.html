@@ -1,0 +1,22 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'VideoSeg/style.css' %}" />
+
+<body id="Body">
+    <div class="flex-container container">
+        <div id="LogoDiv" style="margin-top: 220px;">
+            <img src="{% static 'VideoSeg/images/LOGO.png' %}" />
+        </div>
+        <div>
+            <p style="color: #333333; font-size: 25px; text-shadow: 1px 1px;"><b> YouTube Video Tutorial Summarizer </b></p>
+        </div>
+        <div id="FormDiv">
+            <form  action="{% url 'result' %}" method="post">
+            {% csrf_token %}
+                <label for="SearchBar" id="SearchBarLabel"></label><br/>
+                <input type="search" id="SearchBar" placeholder="Input your search query here.." name="search"><br/><br/>
+                <button id="SearchButton"><b>Search</b></button>
+            </form>
+        </div>
+    </div>
+</body>

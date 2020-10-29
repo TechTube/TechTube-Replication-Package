@@ -1,0 +1,1384 @@
+﻿How do I undo the most recent local commits in Git change reward undo commit don copy committed code file option
+
+File:  eclipse-workspace/LuceneJV/docs/13.txt
+File:  eclipse-workspace/LuceneJV/docs/1.txt
+File:  eclipse-workspace/LuceneJV/docs/16.txt
+File:  eclipse-workspace/LuceneJV/docs/7.txt
+File:  eclipse-workspace/LuceneJV/docs/48.txt
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+How to change the author and committer name and e-mail of multiple commits in Git repository commits basically change enter javascript replace type github script
+
+File:  eclipse-workspace/LuceneJV/docs/2.txt
+File:  eclipse-workspace/LuceneJV/docs/1.txt
+File:  eclipse-workspace/LuceneJV/docs/13.txt
+File:  eclipse-workspace/LuceneJV/docs/7.txt
+File:  eclipse-workspace/LuceneJV/docs/48.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I move a file in JDK 7 file directory writer object reader yeah create read delete text
+
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/8.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I create and delete a file in JDK 7 file create creating great project program hair king message exist
+
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+File:  eclipse-workspace/LuceneJV/docs/25.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/22.txt
+File:  eclipse-workspace/LuceneJV/docs/21.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I get Http response body as a string response request origin requests reading video post json sending key
+
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/29.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How to monitor file or directory changes ll file watch create event directory files service object events
+
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/24.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I reverse the order of array elements array reverse start assigned input position element area verisign program
+
+File:  eclipse-workspace/LuceneJV/docs/23.txt
+File:  eclipse-workspace/LuceneJV/docs/11.txt
+File:  eclipse-workspace/LuceneJV/docs/7.txt
+File:  eclipse-workspace/LuceneJV/docs/52.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I read last n characters from a file file read method open scanner pretty text print number printed
+
+File:  eclipse-workspace/LuceneJV/docs/8.txt
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+File:  eclipse-workspace/LuceneJV/docs/10.txt
+File:  eclipse-workspace/LuceneJV/docs/76.txt
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to create an XML file of a POJO using JAXB xml simple java create marshall test field duke language type
+
+File:  eclipse-workspace/LuceneJV/docs/9.txt
+File:  eclipse-workspace/LuceneJV/docs/40.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I iterate a subset of a string string letter text time loop function write word call print
+
+File:  eclipse-workspace/LuceneJV/docs/10.txt
+File:  eclipse-workspace/LuceneJV/docs/11.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/79.txt
+File:  eclipse-workspace/LuceneJV/docs/76.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Reverse a string in Python string ll function reverse variable river input follow body execute
+
+File:  eclipse-workspace/LuceneJV/docs/11.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+File:  eclipse-workspace/LuceneJV/docs/52.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/75.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+list ArrayList list arraylist add difference interface ll hood concrete array define
+
+File:  eclipse-workspace/LuceneJV/docs/12.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+File:  eclipse-workspace/LuceneJV/docs/95.txt
+File:  eclipse-workspace/LuceneJV/docs/53.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I compress or zip a directory recursively zip file create folder class test testing checking unzip java
+
+File:  eclipse-workspace/LuceneJV/docs/42.txt
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+File:  eclipse-workspace/LuceneJV/docs/13.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/79.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I sort a list of dictionaries by a value of the dictionary dictionary order sort function key list lambda element sorted alex
+
+File:  eclipse-workspace/LuceneJV/docs/14.txt
+File:  eclipse-workspace/LuceneJV/docs/77.txt
+File:  eclipse-workspace/LuceneJV/docs/67.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/78.txt
+
+true
+1.0
+1.0
+
+
+--------------------------------------------------------
+
+How do I decompress a GZip file in Java file cover pc decompress video tutorial
+
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+File:  eclipse-workspace/LuceneJV/docs/16.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+File:  eclipse-workspace/LuceneJV/docs/25.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I compress a file in GZip format
+
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+File:  eclipse-workspace/LuceneJV/docs/16.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I create an encrypted string for password simple text encryption encrypted decrypt string button encrypt convert program
+
+File:  eclipse-workspace/LuceneJV/docs/17.txt
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+File:  eclipse-workspace/LuceneJV/docs/22.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+how do I use local date time class time format class type java parentheses method local localdatetime classes
+
+File:  eclipse-workspace/LuceneJV/docs/98.txt
+File:  eclipse-workspace/LuceneJV/docs/18.txt
+File:  eclipse-workspace/LuceneJV/docs/30.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I connect to a MongoDB Database database ll document don connect bit work primary cuz query
+
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/86.txt
+File:  eclipse-workspace/LuceneJV/docs/41.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I send an HTML email html image text click send email yahoo document tag gmail
+
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/74.txt
+File:  eclipse-workspace/LuceneJV/docs/2.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Creating MySql database programatically in Java table database create statement function ll java video sql mysql
+
+File:  eclipse-workspace/LuceneJV/docs/42.txt
+File:  eclipse-workspace/LuceneJV/docs/21.txt
+File:  eclipse-workspace/LuceneJV/docs/41.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Generating MD5 digest from File or InputStream object algorithms exams mantra java passport md guys video demonstrate popular
+
+File:  eclipse-workspace/LuceneJV/docs/22.txt
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I clone an array variable copy marks array element address guys method store system values
+
+File:  eclipse-workspace/LuceneJV/docs/23.txt
+File:  eclipse-workspace/LuceneJV/docs/50.txt
+File:  eclipse-workspace/LuceneJV/docs/7.txt
+File:  eclipse-workspace/LuceneJV/docs/14.txt
+File:  eclipse-workspace/LuceneJV/docs/77.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to recursively list all text files in a directory play search previous files supreme court specific
+
+File:  eclipse-workspace/LuceneJV/docs/24.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/56.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I copy a file in JDK 7 file copy object directory text create folder instantiate magic reader
+
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/25.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I send an Http Post request request post send requests sending eclipse http parameters video ll
+
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/29.txt
+
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I get the primary key of any JPA entity hibernate primary key generation sequence generate database type table entity
+
+File:  eclipse-workspace/LuceneJV/docs/27.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/86.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I delete entity object in JPA person method entity primary key database anthony hibernate entitymanager transaction
+
+File:  eclipse-workspace/LuceneJV/docs/27.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/86.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How do I ping a host host address ip appointment fill required target pieces form enter
+
+File:  eclipse-workspace/LuceneJV/docs/29.txt
+File:  eclipse-workspace/LuceneJV/docs/50.txt
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/42.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I find the difference between two times milliseconds number difference absolute type negative day parentheses abs days
+
+File:  eclipse-workspace/LuceneJV/docs/30.txt
+File:  eclipse-workspace/LuceneJV/docs/52.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/12.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I modified Java object in script object class aircraft create type variable java template ll memory
+
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/40.txt
+File:  eclipse-workspace/LuceneJV/docs/38.txt
+File:  eclipse-workspace/LuceneJV/docs/80.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I call a specific function of a script call program word file time ll quick output java real
+
+File:  eclipse-workspace/LuceneJV/docs/32.txt
+File:  eclipse-workspace/LuceneJV/docs/25.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/10.txt
+File:  eclipse-workspace/LuceneJV/docs/64.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Add Background image to JPane image component tennessee accepts city power
+
+File:  eclipse-workspace/LuceneJV/docs/38.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/82.txt
+File:  eclipse-workspace/LuceneJV/docs/35.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Add Titled Border to Panel panel panels add ll late drop switch click card don
+
+File:  eclipse-workspace/LuceneJV/docs/34.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+Create a Popup Menu with Nested Menus menu add item blank create override max quick instance code
+
+File:  eclipse-workspace/LuceneJV/docs/35.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+File:  eclipse-workspace/LuceneJV/docs/55.txt
+File:  eclipse-workspace/LuceneJV/docs/51.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to do relative imports in Python relative current python folder door don import usage utility worth
+
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+File:  eclipse-workspace/LuceneJV/docs/74.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+What is the maximum recursion depth in Python, and how to increase it function cache values number write cash python lru sequence love
+
+File:  eclipse-workspace/LuceneJV/docs/37.txt
+File:  eclipse-workspace/LuceneJV/docs/72.txt
+File:  eclipse-workspace/LuceneJV/docs/96.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/78.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to Get height and width of an image image function variable resize capture height label write images pass
+
+File:  eclipse-workspace/LuceneJV/docs/38.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+File:  eclipse-workspace/LuceneJV/docs/94.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Draw a Pie Chart pie chart ll data nursing create area title degrees call
+
+File:  eclipse-workspace/LuceneJV/docs/39.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to Parse xml file and get tag value xml text object data string file element json houses list
+
+File:  eclipse-workspace/LuceneJV/docs/40.txt
+File:  eclipse-workspace/LuceneJV/docs/9.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How documents are represented in MongoDB Java Driver documents driver java don ll bit document query collection update
+
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/86.txt
+File:  eclipse-workspace/LuceneJV/docs/41.txt
+
+false
+0.2
+0.2
+
+---------------------------------------------------------
+
+How to establish connection to database with Properties properties file class property database program object reading connection driver
+
+File:  eclipse-workspace/LuceneJV/docs/42.txt
+File:  eclipse-workspace/LuceneJV/docs/21.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to verify digital signature of a signed data signature data digital file encryption hash key signatures encrypted input
+
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+File:  eclipse-workspace/LuceneJV/docs/17.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How to create a digital signature and sign data signature data digital file encryption hash key signatures encrypted input
+
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+File:  eclipse-workspace/LuceneJV/docs/17.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I generate public and private keys application private ll developer api key order click payroll file
+
+File:  eclipse-workspace/LuceneJV/docs/45.txt
+File:  eclipse-workspace/LuceneJV/docs/44.txt
+File:  eclipse-workspace/LuceneJV/docs/43.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to put the legend out of the plot legend saving save legends data add organize tutorial high adding
+
+File:  eclipse-workspace/LuceneJV/docs/46.txt
+File:  eclipse-workspace/LuceneJV/docs/39.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I execute Http Get request request post send requests sending eclipse http parameters video ll
+
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/29.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I create a client-server socket communication client socket number server program scanner object accept create type
+
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/48.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/19.txt
+File:  eclipse-workspace/LuceneJV/docs/86.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I read  download webpage content url program stream code file read set open ll chicken
+
+File:  eclipse-workspace/LuceneJV/docs/49.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/8.txt
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I get IP address of localhost ip address addresses write click network button variable school list
+
+File:  eclipse-workspace/LuceneJV/docs/50.txt
+File:  eclipse-workspace/LuceneJV/docs/29.txt
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to test multiple variables against a value variables multiple variable turning python equal store mike sentence sarah
+
+File:  eclipse-workspace/LuceneJV/docs/55.txt
+File:  eclipse-workspace/LuceneJV/docs/51.txt
+File:  eclipse-workspace/LuceneJV/docs/63.txt
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Understanding slice notation negative slice values top level start reverse domain ll play
+
+File:  eclipse-workspace/LuceneJV/docs/52.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/72.txt
+File:  eclipse-workspace/LuceneJV/docs/96.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Least Astonishment and the Mutable Default Argument time default list employee function set video empty evaluated add
+
+File:  eclipse-workspace/LuceneJV/docs/53.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/9.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/81.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Asking the user for input until they give a valid response input answer function user loop bunch code call spaces strip
+
+File:  eclipse-workspace/LuceneJV/docs/54.txt
+File:  eclipse-workspace/LuceneJV/docs/94.txt
+File:  eclipse-workspace/LuceneJV/docs/11.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I create a variable number of variables work variable straight variables don works string define type
+
+File:  eclipse-workspace/LuceneJV/docs/55.txt
+File:  eclipse-workspace/LuceneJV/docs/51.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+File:  eclipse-workspace/LuceneJV/docs/63.txt
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to split a string into a list list separator split elements finally splits convert element drink string
+
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/56.txt
+File:  eclipse-workspace/LuceneJV/docs/60.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How to remove items from a list while iterating list numbers remove code equal item values symbol movie channel
+
+File:  eclipse-workspace/LuceneJV/docs/57.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to pivot a dataframe pandas pivottables indexes function create pivot method quick disability columns
+
+File:  eclipse-workspace/LuceneJV/docs/58.txt
+File:  eclipse-workspace/LuceneJV/docs/68.txt
+File:  eclipse-workspace/LuceneJV/docs/60.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to make a flat list out of list of lists list equal item items create number method find values mystery
+
+File:  eclipse-workspace/LuceneJV/docs/90.txt
+File:  eclipse-workspace/LuceneJV/docs/56.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/57.txt
+File:  eclipse-workspace/LuceneJV/docs/79.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do you split a list into evenly sized chunks list negative print start leave values reverse url ll colon
+
+File:  eclipse-workspace/LuceneJV/docs/52.txt
+File:  eclipse-workspace/LuceneJV/docs/60.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Use different Python version with virtualenv python directory command path executable installed version video ve location
+
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/45.txt
+File:  eclipse-workspace/LuceneJV/docs/64.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I pass a variable by reference function dictionary passing values reference employee passed variable reflected test
+
+File:  eclipse-workspace/LuceneJV/docs/62.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Using global variables in a function variable global function local variables functions accessed work globex print
+
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+File:  eclipse-workspace/LuceneJV/docs/63.txt
+File:  eclipse-workspace/LuceneJV/docs/62.txt
+File:  eclipse-workspace/LuceneJV/docs/94.txt
+File:  eclipse-workspace/LuceneJV/docs/78.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Calling an external command from Python command output standard python file argument print subprocess external equal
+
+File:  eclipse-workspace/LuceneJV/docs/64.txt
+File:  eclipse-workspace/LuceneJV/docs/91.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/41.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+What does the yield keyword do object suspend resume generation execution python generator simple point iterator
+
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+File:  eclipse-workspace/LuceneJV/docs/81.txt
+File:  eclipse-workspace/LuceneJV/docs/91.txt
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+What does if __ name __ == __ main ___ do main method module code double underscore file equal modules print
+
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+File:  eclipse-workspace/LuceneJV/docs/75.txt
+File:  eclipse-workspace/LuceneJV/docs/94.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How do I sort a dictionary by value dictionary order sort function key list lambda element sorted alex
+
+File:  eclipse-workspace/LuceneJV/docs/14.txt
+File:  eclipse-workspace/LuceneJV/docs/77.txt
+File:  eclipse-workspace/LuceneJV/docs/67.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How to select rows from a DataFrame based on column values column car origin rows pounds case cars select based rose
+
+File:  eclipse-workspace/LuceneJV/docs/68.txt
+File:  eclipse-workspace/LuceneJV/docs/27.txt
+File:  eclipse-workspace/LuceneJV/docs/42.txt
+File:  eclipse-workspace/LuceneJV/docs/34.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to import a module given the full path file import ll main don function funks called files access
+
+File:  eclipse-workspace/LuceneJV/docs/89.txt
+File:  eclipse-workspace/LuceneJV/docs/75.txt
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/4.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How can I count the occurrences of a list item list item count python occurrence counter channel find video subscribe
+
+File:  eclipse-workspace/LuceneJV/docs/90.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/70.txt
+File:  eclipse-workspace/LuceneJV/docs/57.txt
+File:  eclipse-workspace/LuceneJV/docs/69.tx
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+What is the difference between re.search and re.match function match search regular expression ll matches character patent string
+
+File:  eclipse-workspace/LuceneJV/docs/71.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/24.txt
+File:  eclipse-workspace/LuceneJV/docs/12.txt
+File:  eclipse-workspace/LuceneJV/docs/68.txt
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to generate all permutations of a list in Python problem permutations string case factorial decision backtracking character pool finished
+
+File:  eclipse-workspace/LuceneJV/docs/72.txt
+File:  eclipse-workspace/LuceneJV/docs/96.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How can you profile a Python script profile function movie duplicate ve optimize find basically kind style
+
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/2.txt
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Multiprocessing vs Threading Python process multi processing thread threading interpreter side lock global python
+
+File:  eclipse-workspace/LuceneJV/docs/74.txt
+File:  eclipse-workspace/LuceneJV/docs/82.txt
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+File:  eclipse-workspace/LuceneJV/docs/63.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I list all files of a directory intrapreneur determinants ir list apprenti founding path file aamps safety
+
+File:  eclipse-workspace/LuceneJV/docs/75.txt
+File:  eclipse-workspace/LuceneJV/docs/24.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/6.txt
+File:  eclipse-workspace/LuceneJV/docs/56.txt
+
+true
+1.0
+1.0
+
+
+
+---------------------------------------------------------
+
+Iterating over dictionaries using _for_ loops talked output apple number installed pison dictionary load loops dictionaries
+
+File:  eclipse-workspace/LuceneJV/docs/76.txt
+File:  eclipse-workspace/LuceneJV/docs/85.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/14.txt
+File:  eclipse-workspace/LuceneJV/docs/77.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How can I sort a dictionary by key dictionary order key sort function lambda list element sorted equals
+
+File:  eclipse-workspace/LuceneJV/docs/14.txt
+File:  eclipse-workspace/LuceneJV/docs/67.txt
+File:  eclipse-workspace/LuceneJV/docs/77.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+Replacements for switch statement in Python python function kind condition functions statement case switch call book
+
+File:  eclipse-workspace/LuceneJV/docs/78.txt
+File:  eclipse-workspace/LuceneJV/docs/97.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/91.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to iterate through two lists in parallel list video ll names lists showing full explain reason code
+
+File:  eclipse-workspace/LuceneJV/docs/79.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+File:  eclipse-workspace/LuceneJV/docs/53.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+What are metaclasses in Python function python classes type class don underscore metaclasses object created
+
+File:  eclipse-workspace/LuceneJV/docs/81.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+File:  eclipse-workspace/LuceneJV/docs/80.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+
+false
+0.25
+0.25
+
+---------------------------------------------------------
+
+How to avoid having class data shared among instances class employee instance create method methods full print variables video
+
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/9.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+File:  eclipse-workspace/LuceneJV/docs/53.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+Is there any way to kill a Thread thread enter dead running variable hit function cpu program don
+
+File:  eclipse-workspace/LuceneJV/docs/82.txt
+File:  eclipse-workspace/LuceneJV/docs/74.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+File:  eclipse-workspace/LuceneJV/docs/54.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do you remove duplicates from a list whilst preserving order list duplicates remove set numbers function loop type dictionary duplicate
+
+File:  eclipse-workspace/LuceneJV/docs/57.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/83.txt
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/76.txt
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+Converting string into datetime string day actual object advance time year objects python work
+
+File:  eclipse-workspace/LuceneJV/docs/84.txt
+File:  eclipse-workspace/LuceneJV/docs/30.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I merge two dictionaries in a single expression python channel single dictionaries keyboard murder mod expression subscribe buy
+
+File:  eclipse-workspace/LuceneJV/docs/85.txt
+File:  eclipse-workspace/LuceneJV/docs/71.txt
+File:  eclipse-workspace/LuceneJV/docs/76.txt
+File:  eclipse-workspace/LuceneJV/docs/24.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to print without newline or space print freeway quick python read mp question real crate newline
+
+File:  eclipse-workspace/LuceneJV/docs/10.txt
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+File:  eclipse-workspace/LuceneJV/docs/37.txt
+File:  eclipse-workspace/LuceneJV/docs/70.txt
+File:  eclipse-workspace/LuceneJV/docs/65.txt
+
+false
+0.0
+0.0
+
+
+---------------------------------------------------------
+
+Get the data received in a Flask request request data ll object language post python form flask framework
+
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/26.txt
+File:  eclipse-workspace/LuceneJV/docs/47.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+File:  eclipse-workspace/LuceneJV/docs/20.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to serve static files in Flask static css files template file ll url image loading flask
+
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/87.txt
+File:  eclipse-workspace/LuceneJV/docs/38.txt
+File:  eclipse-workspace/LuceneJV/docs/21.txt
+File:  eclipse-workspace/LuceneJV/docs/33.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to import a module given the full path module import directory path python find ll variable file standard
+
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/75.txt
+File:  eclipse-workspace/LuceneJV/docs/61.txt
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How can I count the occurrences of a list item count string number function brackets spaces occurrences select list access
+
+File:  eclipse-workspace/LuceneJV/docs/70.txt
+File:  eclipse-workspace/LuceneJV/docs/90.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/68.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How can you profile a Python script profile function movie duplicate ve optimize find basically kind style
+
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/69.txt
+File:  eclipse-workspace/LuceneJV/docs/88.txt
+File:  eclipse-workspace/LuceneJV/docs/2.txt
+File:  eclipse-workspace/LuceneJV/docs/36.txt
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+Are static class variables possible in Python class method methods instance amount static employee variable pass create
+
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/9.txt
+File:  eclipse-workspace/LuceneJV/docs/98.txt
+File:  eclipse-workspace/LuceneJV/docs/18.txt
+File:  eclipse-workspace/LuceneJV/docs/31.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do you append to a file in Python file read open test print write reading files txt lines
+
+File:  eclipse-workspace/LuceneJV/docs/93.txt
+File:  eclipse-workspace/LuceneJV/docs/8.txt
+File:  eclipse-workspace/LuceneJV/docs/64.txt
+File:  eclipse-workspace/LuceneJV/docs/3.txt
+File:  eclipse-workspace/LuceneJV/docs/25.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Calling a function of a module by using its name (a string) function print return call parentheses cell argument code colon called
+
+File:  eclipse-workspace/LuceneJV/docs/94.txt
+File:  eclipse-workspace/LuceneJV/docs/81.txt
+File:  eclipse-workspace/LuceneJV/docs/91.txt
+File:  eclipse-workspace/LuceneJV/docs/92.txt
+File:  eclipse-workspace/LuceneJV/docs/62.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Switch between two frames in tkinter frame button frames ll problem basically start tkinter pass code
+
+File:  eclipse-workspace/LuceneJV/docs/95.txt
+File:  eclipse-workspace/LuceneJV/docs/35.txt
+File:  eclipse-workspace/LuceneJV/docs/72.txt
+File:  eclipse-workspace/LuceneJV/docs/96.txt
+File:  eclipse-workspace/LuceneJV/docs/34.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to generate all permutations of a list in Python problem permutations string case factorial decision backtracking character pool finished
+
+File:  eclipse-workspace/LuceneJV/docs/72.txt
+File:  eclipse-workspace/LuceneJV/docs/96.txt
+File:  eclipse-workspace/LuceneJV/docs/59.txt
+File:  eclipse-workspace/LuceneJV/docs/73.txt
+File:  eclipse-workspace/LuceneJV/docs/66.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Python variable scope error function global local scope variable printed test print python built
+
+File:  eclipse-workspace/LuceneJV/docs/63.txt
+File:  eclipse-workspace/LuceneJV/docs/15.txt
+File:  eclipse-workspace/LuceneJV/docs/62.txt
+File:  eclipse-workspace/LuceneJV/docs/64.txt
+File:  eclipse-workspace/LuceneJV/docs/82.txt
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I get a format date for a specific pattern and local time format java print video class sdf object small import
+
+File:  eclipse-workspace/LuceneJV/docs/98.txt
+File:  eclipse-workspace/LuceneJV/docs/18.txt
+File:  eclipse-workspace/LuceneJV/docs/30.txt
+File:  eclipse-workspace/LuceneJV/docs/84.txt
+File:  eclipse-workspace/LuceneJV/docs/5.txt
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+

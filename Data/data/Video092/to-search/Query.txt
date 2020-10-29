@@ -1,0 +1,1 @@
+Are static class variables possible in Python	class method methods instance amount static employee variable pass create

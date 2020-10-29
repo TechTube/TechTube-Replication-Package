@@ -1,0 +1,1 @@
+you can see that not a problem there was no complaints if I run it again I get a null pointer exception because I returned a random conflict so what happens is if this was a distributed application let's say that geographically displayed the conflict or another through some symbols on a flight strip or another application that did some mathematical processing

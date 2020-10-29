@@ -1,0 +1,1 @@
+Get the data received in a Flask request	request data ll object language post python form flask framework

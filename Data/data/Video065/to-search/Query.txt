@@ -1,0 +1,1 @@
+What does the yield keyword do	object suspend resume generation execution python generator simple point iterator

@@ -1,0 +1,1 @@
+now what map is going to do is going to return to an optional of that value in this case get conflict ID returns an integer Tripes is going to return to an optional of integer and there were going to stream that or chain that with a new method that was introduced in Java 9 called if present or else right that seems to be more of like an if else

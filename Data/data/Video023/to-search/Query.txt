@@ -1,0 +1,1 @@
+How do I clone an array variable	copy marks array element address guys method store system values

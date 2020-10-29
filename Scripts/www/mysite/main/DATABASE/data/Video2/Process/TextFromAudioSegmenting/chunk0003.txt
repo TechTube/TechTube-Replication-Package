@@ -1,0 +1,1 @@
+interior it turns purple that means it's a keyword so this null is a keyword to job I'm going to explain everything here in a sec but I'm just going to save it now a is know what happens when we print it let's click the Run by and see what happens we get no okay that's interesting in itself but we're trying to do and we'll try to get the length

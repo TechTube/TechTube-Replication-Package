@@ -1,0 +1,1 @@
+the second way is safer but is more verbose because it's of malleable now if I pass in that no conflict instead of throwing a null pointer exception

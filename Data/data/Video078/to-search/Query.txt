@@ -1,0 +1,1 @@
+Replacements for switch statement in Python	python function kind condition functions statement case switch call book

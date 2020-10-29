@@ -1,0 +1,27 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'VideoSeg/style.css' %}" />
+
+
+<body id="Body">
+    <div class="flex-container2">
+            <form  class = "form-inline" action="{% url 'result' %}" method="post">
+                <a href="{% url 'home' %}">
+                    <img id="resultLogo" src="{% static 'VideoSeg/images/LOGO.png' %}" />
+                </a>
+                {% csrf_token %}
+                <label for="resultSearchBar" id="resultSearchLabel"></label>
+                <input  type="search" id="resultSearchBar" style="width: 400px;" placeholder="{{ search }}" name="search">
+                <span><button id="resultSearchButton" style="width: 70px;"><b>Search</b></button></span>
+            </form>
+    </div>
+
+
+    <div align="center" style="margin-top: 50px">
+        <iframe src="{{ URL }}?start={{ startTime }}&end={{ endTime }}" width="800" height="500" allowfullscreen></iframe>
+    </div>
+
+    <div align="center" style="color: red">
+        <p><h3>the video starts at "{{ startHour }}:{{ startMin }}:{{ startSec }}" and ends in "{{ endHour }}:{{ endMin }}:{{ endSec }}" </h3></p>
+    </div>
+
+</body>

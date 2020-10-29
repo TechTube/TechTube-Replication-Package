@@ -1,0 +1,1 @@
+okay. This is just for the demo say credit I put this in a try catch block by run this you'll see the message that I caught a null pointer exception

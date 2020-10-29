@@ -1,0 +1,1409 @@
+﻿How do I undo the most recent local commits in Git change reward undo commit don copy committed code file option
+
+ Data/data/Video1/
+ Data/data/Video25/
+ Data/data/Video2/
+ Data/data/Video3/
+ Data/data/Video38/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to change the author and committer name and e-mail of multiple commits in Git repository commits basically change enter javascript replace type github script
+
+ Data/data/Video2/
+ Data/data/Video3/
+ Data/data/Video46/
+ Data/data/Video59/
+ Data/data/Video56/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I move a file in JDK 7 file directory writer object reader yeah create read delete text
+
+ Data/data/Video3/
+ Data/data/Video25/
+ Data/data/Video93/
+ Data/data/Video4/
+ Data/data/Video73/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I create and delete a file in JDK 7 file create creating great project program hair king message exist
+
+ Data/data/Video4/
+ Data/data/Video16/
+ Data/data/Video13/
+ Data/data/Video91/
+ Data/data/Video59/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I get Http response body as a string response request origin requests reading video post json sending key
+
+ Data/data/Video47/
+ Data/data/Video5/
+ Data/data/Video26/
+ Data/data/Video82/
+ Data/data/Video87/
+
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How to monitor file or directory changes ll file watch create event directory files service object events
+
+ Data/data/Video6/
+ Data/data/Video88/
+ Data/data/Video93/
+ Data/data/Video24/
+ Data/data/Video3/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I reverse the order of array elements array reverse start assigned input position element area verisign program
+
+ Data/data/Video7/
+ Data/data/Video23/
+ Data/data/Video52/
+ Data/data/Video53/
+ Data/data/Video54/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I read last n characters from a file file read method open scanner pretty text print number printed
+
+ Data/data/Video93/
+ Data/data/Video8/
+ Data/data/Video4/
+ Data/data/Video3/
+ Data/data/Video47/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How to create an XML file of a POJO using JAXB xml simple java create marshall test field duke language type
+
+ Data/data/Video9/
+ Data/data/Video59/
+ Data/data/Video25/
+ Data/data/Video16/
+ Data/data/Video63/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I iterate a subset of a string string letter text time loop function write word call print
+
+ Data/data/Video59/
+ Data/data/Video10/
+ Data/data/Video82/
+ Data/data/Video56/
+ Data/data/Video96/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+Reverse a string in Python string ll function reverse variable river input follow body execute
+
+ Data/data/Video11/
+ Data/data/Video59/
+ Data/data/Video82/
+ Data/data/Video56/
+ Data/data/Video96/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+list ArrayList list arraylist add difference interface ll hood concrete array define
+
+ Data/data/Video12/
+ Data/data/Video79/
+ Data/data/Video59/
+ Data/data/Video52/
+ Data/data/Video56/
+
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I compress or zip a directory recursively zip file create folder class test testing checking unzip java
+
+ Data/data/Video16/
+ Data/data/Video13/
+ Data/data/Video15/
+ Data/data/Video8/
+ Data/data/Video4/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I sort a list of dictionaries by a value of the dictionary dictionary order sort function key list lambda element sorted alex
+
+ Data/data/Video14/
+ Data/data/Video56/
+ Data/data/Video59/
+ Data/data/Video77/
+ Data/data/Video67/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I decompress a GZip file in Java file cover pc decompress video tutorial
+
+ Data/data/Video15/
+ Data/data/Video16/
+ Data/data/Video13/
+ Data/data/Video75/
+ Data/data/Video73/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I compress a file in GZip format
+
+ Data/data/Video16/
+ Data/data/Video25/
+ Data/data/Video15/
+ Data/data/Video73/
+ Data/data/Video18/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I create an encrypted string for password simple text encryption encrypted decrypt string button encrypt convert program
+
+ Data/data/Video59/
+ Data/data/Video17/
+ Data/data/Video82/
+ Data/data/Video52/
+ Data/data/Video56/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+how do I use local date time class time format class type java parentheses method local localdatetime classes
+
+ Data/data/Video18/
+ Data/data/Video98/
+ Data/data/Video8/
+ Data/data/Video31/
+ Data/data/Video30/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I connect to a MongoDB Database database ll document don connect bit work primary cuz query
+
+ Data/data/Video19/
+ Data/data/Video48/
+ Data/data/Video42/
+ Data/data/Video38/
+ Data/data/Video25/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I send an HTML email html image text click send email yahoo document tag gmail
+
+ Data/data/Video20/
+ Data/data/Video38/
+ Data/data/Video25/
+ Data/data/Video33/
+ Data/data/Video47/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Creating MySql database programatically in Java table database create statement function ll java video sql mysql
+
+ Data/data/Video21/
+ Data/data/Video41/
+ Data/data/Video42/
+ Data/data/Video50/
+ Data/data/Video82/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+Generating MD5 digest from File or InputStream object algorithms exams mantra java passport md guys video demonstrate popular
+
+ Data/data/Video18/
+ Data/data/Video22/
+ Data/data/Video8/
+ Data/data/Video13/
+ Data/data/Video23/
+
+false
+0.5
+0.5
+---------------------------------------------------------
+
+How do I clone an array variable copy marks array element address guys method store system values
+
+ Data/data/Video23/
+ Data/data/Video27/
+ Data/data/Video25/
+ Data/data/Video2/
+ Data/data/Video61/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to recursively list all text files in a directory play search previous files supreme court specific
+
+ Data/data/Video93/
+ Data/data/Video3/
+ Data/data/Video79/
+ Data/data/Video88/
+ Data/data/Video71/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How do I copy a file in JDK 7 file copy object directory text create folder instantiate magic reader
+
+ Data/data/Video25/
+ Data/data/Video93/
+ Data/data/Video3/
+ Data/data/Video4/
+ Data/data/Video13/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I send an Http Post request request post send requests sending eclipse http parameters video ll
+
+ Data/data/Video47/
+ Data/data/Video26/
+ Data/data/Video5/
+ Data/data/Video87/
+ Data/data/Video8/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+How do I get the primary key of any JPA entity hibernate primary key generation sequence generate database type table entity
+
+ Data/data/Video27/
+ Data/data/Video45/
+ Data/data/Video59/
+ Data/data/Video2/
+ Data/data/Video42/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I delete entity object in JPA person method entity primary key database anthony hibernate entitymanager transaction
+
+ Data/data/Video28/
+ Data/data/Video38/
+ Data/data/Video92/
+ Data/data/Video8/
+ Data/data/Video81/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I ping a host host address ip appointment fill required target pieces form enter
+
+ Data/data/Video29/
+ Data/data/Video33/
+ Data/data/Video8/
+ Data/data/Video30/
+ Data/data/Video60/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I find the difference between two times milliseconds number difference absolute type negative day parentheses abs days
+
+ Data/data/Video30/
+ Data/data/Video2/
+ Data/data/Video59/
+ Data/data/Video97/
+ Data/data/Video90/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I modified Java object in script object class aircraft create type variable java template ll memory
+
+ Data/data/Video8/
+ Data/data/Video31/
+ Data/data/Video38/
+ Data/data/Video92/
+ Data/data/Video81/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I call a specific function of a script call program word file time ll quick output java real
+
+ Data/data/Video62/
+ Data/data/Video32/
+ Data/data/Video88/
+ Data/data/Video91/
+ Data/data/Video50/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+Add Background image to JPane image component tennessee accepts city power
+
+ Data/data/Video38/
+ Data/data/Video88/
+ Data/data/Video33/
+ Data/data/Video82/
+ Data/data/Video56/
+
+
+false
+0.33333
+0.33333
+---------------------------------------------------------
+
+Add Titled Border to Panel panel panels add ll late drop switch click card don
+
+ Data/data/Video34/
+ Data/data/Video50/
+ Data/data/Video79/
+ Data/data/Video38/
+ Data/data/Video46/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+Create a Popup Menu with Nested Menus menu add item blank create override max quick instance code
+
+ Data/data/Video35/
+ Data/data/Video31/
+ Data/data/Video33/
+ Data/data/Video69/
+ Data/data/Video82/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to do relative imports in Python relative current python folder door don import usage utility worth
+
+ Data/data/Video61/
+ Data/data/Video89/
+ Data/data/Video36/
+ Data/data/Video25/
+ Data/data/Video53/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+What is the maximum recursion depth in Python, and how to increase it function cache values number write cash python lru sequence love
+
+ Data/data/Video59/
+ Data/data/Video7/
+ Data/data/Video60/
+ Data/data/Video2/
+ Data/data/Video69/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How to Get height and width of an image image function variable resize capture height label write images pass
+
+ Data/data/Video82/
+ Data/data/Video38/
+ Data/data/Video63/
+ Data/data/Video33/
+ Data/data/Video62/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Draw a Pie Chart pie chart ll data nursing create area title degrees call
+
+ Data/data/Video62/
+ Data/data/Video39/
+ Data/data/Video32/
+ Data/data/Video58/
+ Data/data/Video50/
+
+false
+0.5
+0.5
+
+
+
+---------------------------------------------------------
+
+How to Parse xml file and get tag value xml text object data string file element json houses list
+
+ Data/data/Video40/
+ Data/data/Video59/
+ Data/data/Video56/
+ Data/data/Video60/
+ Data/data/Video16/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How documents are represented in MongoDB Java Driver documents driver java don ll bit document query collection update
+
+ Data/data/Video41/
+ Data/data/Video32/
+ Data/data/Video50/
+ Data/data/Video38/
+ Data/data/Video25/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to establish connection to database with Properties properties file class property database program object reading connection driver
+
+ Data/data/Video42/
+ Data/data/Video16/
+ Data/data/Video92/
+ Data/data/Video81/
+ Data/data/Video13/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to verify digital signature of a signed data signature data digital file encryption hash key signatures encrypted input
+
+ Data/data/Video43/
+ Data/data/Video44/
+ Data/data/Video75/
+ Data/data/Video23/
+ Data/data/Video14/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to create a digital signature and sign data signature data digital file encryption hash key signatures encrypted input
+
+ Data/data/Video43/
+ Data/data/Video44/
+ Data/data/Video59/
+ Data/data/Video20/
+ Data/data/Video60/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How do I generate public and private keys application private ll developer api key order click payroll file
+
+ Data/data/Video45/
+ Data/data/Video59/
+ Data/data/Video3/
+ Data/data/Video97/
+ Data/data/Video16/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to put the legend out of the plot legend saving save legends data add organize tutorial high adding
+
+ Data/data/Video46/
+ Data/data/Video50/
+ Data/data/Video2/
+ Data/data/Video59/
+ Data/data/Video73/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I execute Http Get request request post send requests sending eclipse http parameters video ll
+
+ Data/data/Video47/
+ Data/data/Video26/
+ Data/data/Video5/
+ Data/data/Video87/
+ Data/data/Video8/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I create a client-server socket communication client socket number server program scanner object accept create type
+
+ Data/data/Video48/
+ Data/data/Video81/
+ Data/data/Video59/
+ Data/data/Video82/
+ Data/data/Video30/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I read  download webpage content url program stream code file read set open ll chicken
+
+ Data/data/Video93/
+ Data/data/Video82/
+ Data/data/Video5/
+ Data/data/Video47/
+ Data/data/Video41/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How do I get IP address of localhost ip address addresses write click network button variable school list
+
+ Data/data/Video50/
+ Data/data/Video8/
+ Data/data/Video51/
+ Data/data/Video55/
+ Data/data/Video32/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to test multiple variables against a value variables multiple variable turning python equal store mike sentence sarah
+
+ Data/data/Video51/
+ Data/data/Video55/
+ Data/data/Video63/
+ Data/data/Video92/
+ Data/data/Video68/
+
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Understanding slice notation negative slice values top level start reverse domain ll play
+
+ Data/data/Video59/
+ Data/data/Video7/
+ Data/data/Video52/
+ Data/data/Video79/
+ Data/data/Video38/
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+Least Astonishment and the Mutable Default Argument time default list employee function set video empty evaluated add
+
+ Data/data/Video59/
+ Data/data/Video60/
+ Data/data/Video56/
+ Data/data/Video16/
+ Data/data/Video46/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+Asking the user for input until they give a valid response input answer function user loop bunch code call spaces strip
+
+ Data/data/Video59/
+ Data/data/Video53/
+ Data/data/Video54/
+ Data/data/Video62/
+ Data/data/Video79/
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+How do I create a variable number of variables work variable straight variables don works string define type
+
+ Data/data/Video55/
+ Data/data/Video8/
+ Data/data/Video82/
+ Data/data/Video92/
+ Data/data/Video51/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to split a string into a list list separator split elements finally splits convert element drink string
+
+ Data/data/Video56/
+ Data/data/Video60/
+ Data/data/Video59/
+ Data/data/Video52/
+ Data/data/Video79/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to remove items from a list while iterating list numbers remove code equal item values symbol movie channel
+
+ Data/data/Video83/
+ Data/data/Video59/
+ Data/data/Video57/
+ Data/data/Video56/
+ Data/data/Video60/
+
+false
+0.33333
+0.33333
+---------------------------------------------------------
+
+How to pivot a dataframe pandas pivottables indexes function create pivot method quick disability columns
+
+ Data/data/Video58/
+ Data/data/Video68/
+ Data/data/Video59/
+ Data/data/Video82/
+ Data/data/Video60/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to make a flat list out of list of lists list equal item items create number method find values mystery
+
+ Data/data/Video59/
+ Data/data/Video56/
+ Data/data/Video52/
+ Data/data/Video90/
+ Data/data/Video82/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do you split a list into evenly sized chunks list negative print start leave values reverse url ll colon
+
+ Data/data/Video60/
+ Data/data/Video56/
+ Data/data/Video79/
+ Data/data/Video59/
+ Data/data/Video8/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Use different Python version with virtualenv python directory command path executable installed version video ve location
+
+ Data/data/Video61/
+ Data/data/Video11/
+ Data/data/Video75/
+ Data/data/Video56/
+ Data/data/Video66/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I pass a variable by reference function dictionary passing values reference employee passed variable reflected test
+
+ Data/data/Video62/
+ Data/data/Video8/
+ Data/data/Video61/
+ Data/data/Video82/
+ Data/data/Video63/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Using global variables in a function variable global function local variables functions accessed work globex print
+
+ Data/data/Video63/
+ Data/data/Video92/
+ Data/data/Video8/
+ Data/data/Video51/
+ Data/data/Video62/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Calling an external command from Python command output standard python file argument print subprocess external equal
+
+ Data/data/Video64/
+ Data/data/Video61/
+ Data/data/Video73/
+ Data/data/Video46/
+ Data/data/Video75/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+What does the yield keyword do object suspend resume generation execution python generator simple point iterator
+
+ Data/data/Video81/
+ Data/data/Video97/
+ Data/data/Video65/
+ Data/data/Video87/
+ Data/data/Video38/
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+What does if __ name __ == __ main ___ do main method module code double underscore file equal modules print
+
+ Data/data/Video66/
+ Data/data/Video26/
+ Data/data/Video91/
+ Data/data/Video61/
+ Data/data/Video47/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I sort a dictionary by value dictionary order sort function key list lambda element sorted alex
+
+ Data/data/Video67/
+ Data/data/Video14/
+ Data/data/Video77/
+ Data/data/Video59/
+ Data/data/Video56/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How to select rows from a DataFrame based on column values column car origin rows pounds case cars select based rose
+
+ Data/data/Video68/
+ Data/data/Video59/
+ Data/data/Video27/
+ Data/data/Video78/
+ Data/data/Video3/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to import a module given the full path file import ll main don function funks called files access
+
+ Data/data/Video89/
+ Data/data/Video61/
+ Data/data/Video3/
+ Data/data/Video59/
+ Data/data/Video25/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How can I count the occurrences of a list item list item count python occurrence counter channel find video subscribe
+
+ Data/data/Video70/
+ Data/data/Video56/
+ Data/data/Video59/
+ Data/data/Video69/
+ Data/data/Video90/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+What is the difference between re.search and re.match function match search regular expression ll matches character patent string
+
+ Data/data/Video71/
+ Data/data/Video59/
+ Data/data/Video56/
+ Data/data/Video2/
+ Data/data/Video50/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to generate all permutations of a list in Python problem permutations string case factorial decision backtracking character pool finished
+
+ Data/data/Video72/
+ Data/data/Video56/
+ Data/data/Video52/
+ Data/data/Video79/
+ Data/data/Video96/
+
+true
+1.0
+1.0
+
+
+
+---------------------------------------------------------
+
+How can you profile a Python script profile function movie duplicate ve optimize find basically kind style
+
+ Data/data/Video62/
+ Data/data/Video73/
+ Data/data/Video71/
+ Data/data/Video91/
+ Data/data/Video59/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+Multiprocessing vs Threading Python process multi processing thread threading interpreter side lock global python
+
+ Data/data/Video74/
+ Data/data/Video82/
+ Data/data/Video56/
+ Data/data/Video63/
+ Data/data/Video92/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I list all files of a directory intrapreneur determinants ir list apprenti founding path file aamps safety
+
+ Data/data/Video56/
+ Data/data/Video75/
+ Data/data/Video4/
+ Data/data/Video59/
+ Data/data/Video79/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+Iterating over dictionaries using _for_ loops talked output apple number installed pison dictionary load loops dictionaries
+
+ Data/data/Video59/
+ Data/data/Video69/
+ Data/data/Video70/
+ Data/data/Video25/
+ Data/data/Video8/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+How can I sort a dictionary by key dictionary order key sort function lambda list element sorted equals
+
+ Data/data/Video59/
+ Data/data/Video14/
+ Data/data/Video77/
+ Data/data/Video67/
+ Data/data/Video56/
+
+false
+0.33333
+0.33333
+
+
+---------------------------------------------------------
+
+Replacements for switch statement in Python python function kind condition functions statement case switch call book
+
+ Data/data/Video78/
+ Data/data/Video62/
+ Data/data/Video59/
+ Data/data/Video94/
+ Data/data/Video60/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to iterate through two lists in parallel list video ll names lists showing full explain reason code
+
+ Data/data/Video59/
+ Data/data/Video79/
+ Data/data/Video83/
+ Data/data/Video82/
+ Data/data/Video60/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+What are metaclasses in Python function python classes type class don underscore metaclasses object created
+
+ Data/data/Video80/
+ Data/data/Video81/
+ Data/data/Video8/
+ Data/data/Video31/
+ Data/data/Video62/
+
+true
+1.0
+1.0
+
+
+
+
+---------------------------------------------------------
+
+How to avoid having class data shared among instances class employee instance create method methods full print variables video
+
+ Data/data/Video92/
+ Data/data/Video81/
+ Data/data/Video31/
+ Data/data/Video60/
+ Data/data/Video8/
+
+false
+0.5
+0.5
+
+
+---------------------------------------------------------
+
+Is there any way to kill a Thread thread enter dead running variable hit function cpu program don
+
+ Data/data/Video82/
+ Data/data/Video63/
+ Data/data/Video92/
+ Data/data/Video71/
+ Data/data/Video48/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do you remove duplicates from a list whilst preserving order list duplicates remove set numbers function loop type dictionary duplicate
+
+ Data/data/Video59/
+ Data/data/Video83/
+ Data/data/Video57/
+ Data/data/Video79/
+ Data/data/Video56/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Converting string into datetime string day actual object advance time year objects python work
+
+ Data/data/Video84/
+ Data/data/Video56/
+ Data/data/Video18/
+ Data/data/Video11/
+ Data/data/Video92/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do I merge two dictionaries in a single expression python channel single dictionaries keyboard murder mod expression subscribe buy
+
+ Data/data/Video56/
+ Data/data/Video71/
+ Data/data/Video61/
+ Data/data/Video85/
+ Data/data/Video53/
+
+false
+0.25
+0.25
+
+---------------------------------------------------------
+
+How to print without newline or space print freeway quick python read mp question real crate newline
+
+ Data/data/Video82/
+ Data/data/Video73/
+ Data/data/Video79/
+ Data/data/Video96/
+ Data/data/Video16/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+Get the data received in a Flask request request data ll object language post python form flask framework
+
+ Data/data/Video87/
+ Data/data/Video50/
+ Data/data/Video60/
+ Data/data/Video75/
+ Data/data/Video14/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to serve static files in Flask static css files template file ll url image loading flask
+
+ Data/data/Video88/
+ Data/data/Video3/
+ Data/data/Video93/
+ Data/data/Video24/
+ Data/data/Video89/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How to import a module given the full path module import directory path python find ll variable file standard
+
+ Data/data/Video61/
+ Data/data/Video89/
+ Data/data/Video75/
+ Data/data/Video91/
+ Data/data/Video71/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+
+How can I count the occurrences of a list item count string number function brackets spaces occurrences select list access
+
+ Data/data/Video90/
+ Data/data/Video69/
+ Data/data/Video70/
+ Data/data/Video56/
+ Data/data/Video59/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How can you profile a Python script profile function movie duplicate ve optimize find basically kind style
+
+ Data/data/Video62/
+ Data/data/Video73/
+ Data/data/Video71/
+ Data/data/Video91/
+ Data/data/Video59/
+
+false
+0.33333
+0.33333
+
+---------------------------------------------------------
+
+Are static class variables possible in Python class method methods instance amount static employee variable pass create
+
+ Data/data/Video92/
+ Data/data/Video8/
+ Data/data/Video31/
+ Data/data/Video63/
+ Data/data/Video81/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+How do you append to a file in Python file read open test print write reading files txt lines
+
+ Data/data/Video93/
+ Data/data/Video25/
+ Data/data/Video88/
+ Data/data/Video24/
+ Data/data/Video3/
+
+true
+1.0
+1.0
+
+---------------------------------------------------------
+
+Calling a function of a module by using its name (a string) function print return call parentheses cell argument code colon called
+
+ Data/data/Video62/
+ Data/data/Video59/
+ Data/data/Video69/
+ Data/data/Video82/
+ Data/data/Video70/
+
+false
+0.0
+0.0
+
+---------------------------------------------------------
+
+Switch between two frames in tkinter frame button frames ll problem basically start tkinter pass code
+
+ Data/data/Video62/
+ Data/data/Video82/
+ Data/data/Video30/
+ Data/data/Video95/
+ Data/data/Video79/
+
+false
+0.25
+0.25
+
+---------------------------------------------------------
+
+How to generate all permutations of a list in Python problem permutations string case factorial decision backtracking character pool finished
+
+ Data/data/Video59/
+ Data/data/Video56/
+ Data/data/Video52/
+ Data/data/Video79/
+ Data/data/Video96/
+
+false
+0.2
+0.2
+
+---------------------------------------------------------
+
+Python variable scope error function global local scope variable printed test print python built
+
+ Data/data/Video97/
+ Data/data/Video61/
+ Data/data/Video82/
+ Data/data/Video92/
+ Data/data/Video51/
+
+true
+1.0
+1.0
+
+
+---------------------------------------------------------
+
+How do I get a format date for a specific pattern and local time format java print video class sdf object small import
+
+ Data/data/Video18/
+ Data/data/Video98/
+ Data/data/Video30/
+ Data/data/Video16/
+ Data/data/Video8/
+
+false
+0.5
+0.5
+
+---------------------------------------------------------
+

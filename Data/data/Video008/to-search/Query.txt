@@ -1,0 +1,1 @@
+How do I read last n characters from a file	file read method open scanner pretty text print number printed

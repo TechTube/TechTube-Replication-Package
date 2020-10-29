@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da3c9cc-53c1-404b-a80e-86bb9724ac4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VxjBmGwyEInhsRMhfaH1twCcOz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VideoSeg/src/VideoSeg/static/VideoSeg/images" />
+      <recent name="$PROJECT_DIR$/VideoSeg/src/VideoSeg/static/VideoSeg" />
+      <recent name="$PROJECT_DIR$/VideoSeg/src/VideoSeg/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VideoSeg/src/VideoSegWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoSeg/src/VideoSegWeb/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da3c9cc-53c1-404b-a80e-86bb9724ac4e" name="Default Changelist" comment="" />
+      <created>1578201506694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578201506694</updated>
+      <workItem from="1578201511854" duration="122000" />
+      <workItem from="1578201661315" duration="28548000" />
+      <workItem from="1578322879239" duration="1060000" />
+      <workItem from="1578414504435" duration="7104000" />
+      <workItem from="1578676513176" duration="3416000" />
+      <workItem from="1578693000524" duration="662000" />
+      <workItem from="1578694783286" duration="3869000" />
+      <workItem from="1578944996424" duration="129000" />
+      <workItem from="1578949940315" duration="485000" />
+      <workItem from="1579034654132" duration="570000" />
+      <workItem from="1579628777777" duration="617000" />
+      <workItem from="1579629409033" duration="5664000" />
+      <workItem from="1579735813213" duration="21000" />
+      <workItem from="1579797720538" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579630306626">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1680.1050@0.27.1920.1053" timestamp="1578283782119" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579630306626" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579630306625">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1680.1050@0.27.1920.1053" timestamp="1578283782118" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579630306625" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579630306625">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1680.1050@0.27.1920.1053" timestamp="1578283782118" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579630306625" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579630306626">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1680.1050@0.27.1920.1053" timestamp="1578283782119" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579630306626" />
+    <state x="449" y="188" key="SettingsEditor" timestamp="1578202650697">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" key="SettingsEditor/0.27.1920.1053/1920.0.1680.1050@0.27.1920.1053" timestamp="1578202650697" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django$settings.coverage" NAME="settings Coverage Results" MODIFIED="1579630150605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VideoSeg/src/VideoSegWeb" />
+  </component>
+</project>

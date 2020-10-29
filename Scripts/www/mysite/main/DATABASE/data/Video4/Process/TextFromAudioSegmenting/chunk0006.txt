@@ -1,0 +1,1 @@
+and you can see we have two methods that are very similar compared to and we have compared to ignore case so use the first one if if if you're just trying to make an exact comparison including the case to uppercase or lowercase and the other one if you don't care about the case but for right now it's just going to like this one and so we're going to do it anyway

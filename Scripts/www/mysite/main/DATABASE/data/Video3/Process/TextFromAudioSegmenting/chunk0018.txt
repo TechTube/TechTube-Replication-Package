@@ -1,0 +1,1 @@
+is empty but if it's not right this would be the same thing as a no. Get conflict ID which would throw a traditional pointer exception but because we're dealing with optional it's going to throw you know a derivative of No Such element exception so if I actually run

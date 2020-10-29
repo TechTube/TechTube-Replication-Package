@@ -1,0 +1,1 @@
+the original object is updated to answer your initial question Java is pass by value but because of the way they work objects function closer to pass by reference

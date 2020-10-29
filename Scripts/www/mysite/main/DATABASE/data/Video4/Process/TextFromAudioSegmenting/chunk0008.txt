@@ -1,0 +1,1 @@
+so if we do this we get a number greater than zero then this is a single line if I'll do system. Out. Print Ellen and inside of here I will say string string one comes before string to write and I'll go down below here and then I'll do another if if string one compared to string two is greater than 0 is actually lessons or that's the other case

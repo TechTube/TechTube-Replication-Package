@@ -1,0 +1,22 @@
+<!-- {% load static %} --!>
+
+<!-- <link rel="stylesheet" type="text/css" href="{% static 'main/style.css' %}" /> --!>
+
+<body style="background-color: #dddddd;">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <div style="margin-top: 220px; text-align: center; ">
+	<img src="https://i.ibb.co/zrNM2xG/LOGO.png" />	
+        </div>
+        <div>
+            <p style="color: #333333; font-size: 25px; text-shadow: 1px 1px;"><b> YouTube Video Tutorial Summarizer </b></p>
+        </div>
+        <div style="text-align: center;">
+            <form  action="{% url 'main:result' %}" method="POST">
+            {% csrf_token %}
+                <label for="SearchBar"></label><br/>
+                <input type="search" style="position: relative; text-align: left; padding-left: 10px; height: 45px; width: 700px; box-shadow: 10px 10px 10px #444444; border-radius: 10px; font-size: 15px;"  placeholder="Input your search query here.." name="search"><br/><br/>
+                <button style="margin-top: 10px; background-color: #eeeeee; text-align: center; font-size: 16px; height: 50px; width: 150px; box-shadow: 5px 5px 5px #444444; border-radius: 10px;"><b>Search</b></button>
+            </form>
+        </div>
+    </div>
+</body>

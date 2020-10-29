@@ -1,0 +1,1 @@
+data of that object like ex becomes 300 I'm changing the original variables well in Java when you pass a primitive value into a function as an argument you make a copy of it and the original variable is an effect when you pass an object into a function the original you're passing just a reference and if you change it is also changed as well

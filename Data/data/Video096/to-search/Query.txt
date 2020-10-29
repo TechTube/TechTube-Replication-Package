@@ -1,0 +1,1 @@
+How to generate all permutations of a list in Python	problem permutations string case factorial decision backtracking character pool finished

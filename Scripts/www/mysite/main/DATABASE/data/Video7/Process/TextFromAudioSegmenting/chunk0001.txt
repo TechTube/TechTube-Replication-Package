@@ -1,0 +1,1 @@
+frame on the stack essentially what this means is that each method exists in its own little island of memory and the only way that these islands can convey information between each other is through method parameters and return statement these are the variables that you pass in anyways there are two ways in which this

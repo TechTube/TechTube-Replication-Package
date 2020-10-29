@@ -1,0 +1,1 @@
+How do I iterate a subset of a string	string letter text time loop function write word call print

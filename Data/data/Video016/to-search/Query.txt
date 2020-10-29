@@ -1,0 +1,1 @@
+How do I compress a file in GZip format

@@ -1,0 +1,43 @@
+binary calculator python
+create a program to find the broken links in an HTML we page python3
+create a program to measure the similarity of two texts python3
+binary calculator in python
+find the borken links in an html web page in python
+client-server communication program python
+binary calculator in c#
+how to read QR codes in python
+how to scann qr codes in python
+send email in c#
+measure the similarity of two texts using cosine similarity + C#
+binary calculator in java
+simple calculator in java
+decimal to binary in java
+how to convert float to binary in python
+python function to convert float to binary
+how to find broken links from a web page in python
+how to parse html file in python?
+how to parse links from a webpage in python3
+how to find a link is broken in python?
+how to send request to a link in python?
+regex for links
+read files python
+cosine similarity function in python
+cosine similarity in python
+how to measure the similarity of two text files
+converting words to vectors in python
+qr code scanner in python
+qr code reader program
+
+
+
+
+
+
+
+
+
+
+
+
+
+

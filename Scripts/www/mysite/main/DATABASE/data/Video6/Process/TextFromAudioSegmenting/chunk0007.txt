@@ -1,0 +1,1 @@
+I need to do somewhere in the computer's memory we're both 50 and 100 is stored now here I make a new particle AP soompi at Tempe whatever I do not make a new object when you pass an object into a function you're passing the reference to be at the location of the the data in memory not a copy of that data

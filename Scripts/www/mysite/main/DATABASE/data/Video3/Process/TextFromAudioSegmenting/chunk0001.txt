@@ -1,0 +1,1 @@
+wrapper class little wrap around whatever type you want okay and then you are going to be obliged forced through a mechanism just like checked exception to check if that value that you wrapped is there or not there there are two states an option presents

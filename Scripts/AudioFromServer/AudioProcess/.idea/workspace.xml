@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dc66138-e5b9-4483-81ae-20a8a6a7137f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TtH0vFddNQSavWpdFV9p9b1q7q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.audioseg">
+    <configuration name="LCS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AudioProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LCS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AudioProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="audioseg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AudioProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audioseg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kjh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AudioProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kjh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AudioProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.audioseg" />
+        <item itemvalue="Python.kjh" />
+        <item itemvalue="Python.sd" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.LCS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc66138-e5b9-4483-81ae-20a8a6a7137f" name="Default Changelist" comment="" />
+      <created>1574272251493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574272251493</updated>
+      <workItem from="1574272253989" duration="7484000" />
+      <workItem from="1574363586295" duration="191000" />
+      <workItem from="1574363933746" duration="4274000" />
+      <workItem from="1574369960932" duration="8698000" />
+      <workItem from="1574524907857" duration="6348000" />
+      <workItem from="1574531637003" duration="21000" />
+      <workItem from="1574534599414" duration="1910000" />
+      <workItem from="1574536552858" duration="74000" />
+      <workItem from="1574652779676" duration="3442000" />
+      <workItem from="1574746789422" duration="8148000" />
+      <workItem from="1574785568361" duration="15126000" />
+      <workItem from="1574862174047" duration="566000" />
+      <workItem from="1574863353596" duration="3773000" />
+      <workItem from="1574871143063" duration="628000" />
+      <workItem from="1574871886463" duration="13000" />
+      <workItem from="1574874193686" duration="1056000" />
+      <workItem from="1574887323950" duration="1973000" />
+      <workItem from="1574900524333" duration="133000" />
+      <workItem from="1574900674511" duration="3716000" />
+      <workItem from="1574905299334" duration="10000" />
+      <workItem from="1574967908673" duration="599000" />
+      <workItem from="1574969352798" duration="957000" />
+      <workItem from="1575228768160" duration="1966000" />
+      <workItem from="1575232428022" duration="23000" />
+      <workItem from="1575232537510" duration="37000" />
+      <workItem from="1575234470971" duration="483000" />
+      <workItem from="1575235135221" duration="14000" />
+      <workItem from="1575259553520" duration="1000" />
+      <workItem from="1575261431932" duration="190000" />
+      <workItem from="1575313231962" duration="109000" />
+      <workItem from="1578102528231" duration="57000" />
+      <workItem from="1578102742021" duration="62000" />
+      <workItem from="1578102826933" duration="13699000" />
+      <workItem from="1578118528080" duration="2536000" />
+      <workItem from="1578161880122" duration="3000" />
+      <workItem from="1578693719059" duration="46000" />
+      <workItem from="1578694000373" duration="374000" />
+      <workItem from="1579797936523" duration="10137000" />
+      <workItem from="1579810173659" duration="10000" />
+      <workItem from="1579887504731" duration="10166000" />
+      <workItem from="1579908007674" duration="2134000" />
+      <workItem from="1579974610703" duration="5194000" />
+      <workItem from="1580147489849" duration="33000" />
+      <workItem from="1580240046023" duration="1710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2493" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578104049736">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2493" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578104049736" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom" timestamp="1579981292293">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1634" height="175" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578121309420" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579914302837" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579981292293" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center" timestamp="1579981292293">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1634" height="175" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578121309420" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579914302837" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579981292293" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left" timestamp="1579981292292">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1634" height="175" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578121309420" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579914302837" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579981292292" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right" timestamp="1579981292293">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1634" height="175" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578121309420" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1200@0.27.1920.1053" timestamp="1579914302837" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579981292293" />
+    <state x="2249" y="160" key="SettingsEditor" timestamp="1578112611677">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2249" y="160" key="SettingsEditor/0.27.1920.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1578112611677" />
+    <state x="581" y="245" width="748" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579974846797">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="581" y="245" width="748" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1579974846797" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AudioProcess$asdfg.coverage" NAME="asdfg Coverage Results" MODIFIED="1574377898511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/AudioProcess$hshs.coverage" NAME="hshs Coverage Results" MODIFIED="1574366047846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$SpeechRecognizer.coverage" NAME="SpeechRecognizer Coverage Results" MODIFIED="1574281252652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$sad.coverage" NAME="sad Coverage Results" MODIFIED="1575229184691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$asljdh.coverage" NAME="asljdh Coverage Results" MODIFIED="1574372980319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$AudioSegmenting.coverage" NAME="AudioSegmenting Coverage Results" MODIFIED="1578109188800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$kjh.coverage" NAME="kjh Coverage Results" MODIFIED="1579806360666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$dur.coverage" NAME="dur Coverage Results" MODIFIED="1578107226387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$test.coverage" NAME="test Coverage Results" MODIFIED="1574800307334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$teasd.coverage" NAME="teasd Coverage Results" MODIFIED="1574370294072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$df.coverage" NAME="df Coverage Results" MODIFIED="1574364879167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1574755110332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$CosineSimilarity.coverage" NAME="CosineSimilarity Coverage Results" MODIFIED="1578115329541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$aksjdh.coverage" NAME="aksjdh Coverage Results" MODIFIED="1574378236846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$audioseg.coverage" NAME="audioseg Coverage Results" MODIFIED="1579978258565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$Main.coverage" NAME="Main Coverage Results" MODIFIED="1578107517172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$asd.coverage" NAME="asd Coverage Results" MODIFIED="1578120733281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$LCS.coverage" NAME="LCS Coverage Results" MODIFIED="1578119693240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AudioProcess$sd.coverage" NAME="sd Coverage Results" MODIFIED="1579804159529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

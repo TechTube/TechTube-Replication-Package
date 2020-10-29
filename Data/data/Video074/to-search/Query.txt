@@ -1,0 +1,1 @@
+Multiprocessing vs Threading Python	process multi processing thread threading interpreter side lock global python

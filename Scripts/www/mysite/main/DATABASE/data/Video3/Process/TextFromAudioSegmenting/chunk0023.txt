@@ -1,0 +1,1 @@
+so over here you'll see I'm still using the same method Pro for conflict returning an optional so here's that optional that conflict but now I'm executing the map method off the option of you may recognize that the map is going to take a look

@@ -1,0 +1,1 @@
+write something in there is missing and that missing thing is me figuring out if it's has a value or it's empty right like the traditional no check so this is a good thing because now I'm not propagating doll to my clients are in very now going to be much more simple to know keep up client codebase that's much more resistance to failures alright so

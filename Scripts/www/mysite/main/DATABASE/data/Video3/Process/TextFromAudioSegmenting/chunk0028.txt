@@ -1,0 +1,1 @@
+right well if there is no conflict we might choose to return an empty optional Lauren if there is a conflict will choose to return the conflict itself inside rap inside the optional so now we are forcing the colour to figure out if the optional is there not because there are dire consequences

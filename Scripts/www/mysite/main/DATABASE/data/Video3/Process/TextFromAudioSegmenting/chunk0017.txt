@@ -1,0 +1,1 @@
+this is a bad way of doing it we prefer Catholic returning an optional right so now we are forced to check can I just use it blindly ever forced to check was in there and I put it out of the optional and what's the value and there that's being

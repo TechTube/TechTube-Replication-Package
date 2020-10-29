@@ -1,0 +1,1 @@
+there will put a semicolon at the end now you might look at this and ask why is underlined that's because we're doing all the stuff inside of an if statement and is you remember when we do if statements more doing comparisons we need a double equal here so you know every time you look for the underlined see if you can figure out what it's asking in so well

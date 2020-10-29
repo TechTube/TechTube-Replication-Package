@@ -1,0 +1,1 @@
+it. Conflicts going to have like a conflict ID cuz we're going to dumb down the domain objects quite a bit just to get the example rolling right so let's take a look at what the problem is

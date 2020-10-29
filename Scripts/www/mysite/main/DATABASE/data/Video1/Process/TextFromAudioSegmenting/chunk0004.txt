@@ -1,0 +1,1 @@
+rather than creating semantic errors that the syntax compilation and highlighting if I was doing this properly how could I have done in reality of what we hope for is that I would only start with one test that high so here's the test I'm start and hopefully this is what my first test would look like a self-contained the variable that I'm using is declared in

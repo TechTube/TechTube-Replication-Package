@@ -1,0 +1,1 @@
+I'm going to call exchange and it's going to receive a single number as an argument inside this function I'm going to say that value equals value times 2

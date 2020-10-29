@@ -1,0 +1,1 @@
+you know or cash to a try catch block the exception we need the same mechanism in place something that forces us to check and that's where optional comes in so let's comment about this problem here and let's take a look at the solution in theory so now we're going to do is we're going to go back to the flight object

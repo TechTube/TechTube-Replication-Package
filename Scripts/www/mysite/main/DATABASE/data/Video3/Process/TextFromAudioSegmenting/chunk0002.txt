@@ -1,0 +1,1 @@
+so we don't say the word Knoll anymore an optional because we're wrapping a value and we allow the client's then to interrogate the optional to see if the volume is there or not so we're going to take a look at that in practice so once we get there we'll take a look at how to create and retrieve class will take a look at recommendations

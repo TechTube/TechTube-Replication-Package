@@ -1,0 +1,1 @@
+everyone and here temperature that so today we're taking a look at Java optional and we're going to see if it really is a null pointer exception killer take a look at the outline for we get on with some corn example what problem are we trying to solve the problem of no exceptions which is a bad thing so how we going to solve

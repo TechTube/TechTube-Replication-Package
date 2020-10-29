@@ -1,0 +1,1 @@
+inter program now just typed something in here to fix that things like string and scanner we're sort of built on top of gout so they're not primitive and so that's kind of the rule no cannot be assigned to a primitive variable but they can be two objects or things built on top of stuff like this we don't have any heirs here but we haven't hear here assigning it to an integer

@@ -1,0 +1,40 @@
+<!-- {% load static %} --!>
+<!-- <link rel="stylesheet" type="text/css" href="{% static 'main/style.css' %}" /> --!>
+
+
+<body style="background-color: #dddddd;">
+    <div style="display: flex; justify-content: flex-start;">
+            <form  style="display: flex; flex-flow: row wrap;"  action="{% url 'main:result' %}" method="POST">
+
+                <img style="width: 150px; heigh: 55px;" src="https://i.ibb.co/zrNM2xG/LOGO.png" alt="the pic is not available" />
+
+                {% csrf_token %}
+                <label for="resultSearchBar"></label>
+                <input  type="search" style="margin-top: 8px; font-size: 15px; font-weight: bold;  width: 400px; position: relative; border-radius: 10px; box-shadow: 5px 5px 5px #444444; height: 35px; border-radius: 10px;" placeholder="{{ search }}" name="search">
+                <span><button style="margin-top: 8px; font-size: 10px; margin-left: 10px; position: relative; height: 35px; width: 70px; box-shadow: 5px 5px 5px #444444; border-radius: 10px;"><b>Search</b></button></span>
+            </form>
+    </div>
+
+
+    <div align="center" style="margin-top: 30px">
+        <iframe src="{{ URL1 }}?start={{ startTime1 }}&end={{ endTime1 }}" width="900" height="500" allowfullscreen></iframe>
+    </div>
+    <div align="center" style="font-size: 14px; font-weight: bold; margin-top: 5px"><span style="color: #222222">The first Video</span><span style="color: darkred"> starts at "{{ startHour1 }}:{{ startMin1 }}:{{ startSec1 }} and ends in {{ endHour1 }}:{{ endMin1 }}:{{ endSec1 }}"</span></div>
+<!--    <div align="center" style="margin-top: 20px">
+        <iframe src="{{ URL2 }}?start={{ startTime2 }}&end={{ endTime2 }}" width="900" height="500" allowfullscreen></iframe>
+    </div>
+    <div align="center" style="font-size: 14px; font-weight: bold; margin-top: 5px"><span style="color: #222222">The second Video</span><span style="color: darkred"> starts at "{{ startHour2 }}:{{ startMin2 }}:{{ startSec2 }} and ends in {{ endHour2 }}:{{ endMin2 }}:{{ endSec2 }}"</span></div>
+    <div align="center" style="margin-top: 20px">
+        <iframe src="{{ URL3 }}?start={{ startTime3 }}&end={{ endTime3 }}" width="900" height="500" allowfullscreen></iframe>
+    </div>
+    <div align="center" style="font-size: 14px; font-weight: bold; margin-top: 5px"><span style="color: #222222">The third Video</span><span style="color: darkred"> starts at "{{ startHour3 }}:{{ startMin3 }}:{{ startSec3 }} and ends in {{ endHour3 }}:{{ endMin3 }}:{{ endSec3 }}"</span></div>
+    <div align="center" style="margin-top: 20px">
+        <iframe src="{{ URL4 }}?start={{ startTime4 }}&end={{ endTime4 }}" width="900" height="500" allowfullscreen></iframe>
+    </div>
+    <div align="center" style="font-size: 14px; font-weight: bold; margin-top: 5px"><span style="color: #222222">The fourth Video</span><span style="color: darkred"> starts at "{{ startHour4 }}:{{ startMin4 }}:{{ startSec4 }} and ends in {{ endHour4 }}:{{ endMin4 }}:{{ endSec4 }}"</span></div>
+    <div align="center" style="margin-top: 20px">
+        <iframe src="{{ URL5 }}?start={{ startTime5 }}&end={{ endTime5 }}" width="900" height="500" allowfullscreen></iframe>
+    </div>
+    <div align="center" style="font-size: 14px; font-weight: bold; margin-top: 5px"><span style="color: #222222">The fifth Video</span><span style="color: darkred"> starts at "{{ startHour5 }}:{{ startMin5 }}:{{ startSec5 }} and ends in {{ endHour5 }}:{{ endMin5 }}:{{ endSec5 }}"</span></div>
+    --!>
+</body>

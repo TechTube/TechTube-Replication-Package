@@ -1,0 +1,1 @@
+What is the difference between re.search and re.match	function match search regular expression ll matches character patent string

@@ -1,0 +1,1 @@
+How to change the author and committer name and e-mail of multiple commits in Git	repository commits basically change enter javascript replace type github script

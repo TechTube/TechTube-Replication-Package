@@ -1,0 +1,1 @@
+and that colour is going to be black to start and I'm going to say fill that colour then when it overlap I'm going to say other. Color equals red otherwise other. Color equals black so I know I'm doing this kind of quickly but let me show you why this is so important

@@ -1,0 +1,1 @@
+How do I get the primary key of any JPA entity	hibernate primary key generation sequence generate database type table entity

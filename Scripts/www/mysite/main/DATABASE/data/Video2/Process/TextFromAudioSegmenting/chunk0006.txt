@@ -1,0 +1,1 @@
+and the main method no pointer. Main is that line set line 7 right here corresponds to where the null pointer exception was found so it's helping us but it's actually a friendly message saying something was wrong and this was the problem. It like that your life so much easier

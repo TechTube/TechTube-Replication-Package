@@ -1,0 +1,1 @@
+if present there's actually a method called just if present if you don't really care about the or else right or you can do it with the gift present or else need a job at night so when to use optional when you have a method a client facing method that has the possibility of returning know then that is a perfect use case for optional case in point probe for airspace

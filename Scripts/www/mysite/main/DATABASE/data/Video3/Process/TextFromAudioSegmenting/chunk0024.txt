@@ -1,0 +1,1 @@
+so if the value exists then it's going to get that value notice what I'm saying if get it does the F in the get for you and how does the Gear is by executing this a functional interface which is called function and I'm executing it through a Lambda expression a method reference so I'm getting the conflict ID if the value is present

@@ -1,0 +1,1 @@
+question 5 is Java pass by reference or pass by value or pass by copy is called this is an interesting question and it's something that can be especially tricky if you're learning Java or coming from a C plus plus or C sharp background first explain what is meant by pass by reference and pass by value when you program all of your methods and local variables exist

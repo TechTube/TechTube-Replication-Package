@@ -1,0 +1,1 @@
+How to select rows from a DataFrame based on column values	column car origin rows pounds case cars select based rose

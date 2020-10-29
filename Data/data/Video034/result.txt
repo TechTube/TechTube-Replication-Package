@@ -1,0 +1,2 @@
+StartTime=  0
+EndTime=  41.91683333333333

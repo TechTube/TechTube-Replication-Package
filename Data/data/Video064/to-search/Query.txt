@@ -1,0 +1,1 @@
+Calling an external command from Python	command output standard python file argument print subprocess external equal
