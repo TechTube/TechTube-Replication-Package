@@ -1,5 +1,5 @@
 # SANER 2021
-###Summarizing Relevant parts from Technical Videos
+### Summarizing Relevant parts from Technical Videos
 Software developers frequently watch technical
 videos and tutorials online as solutions to their problems.
 However, the audiovisual explanations of the videos might also
